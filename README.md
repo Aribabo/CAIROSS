@@ -1,7 +1,7 @@
 
 <h1>Project 개요</h1>
 
-<h3> 💡아이디어 </h3>
+<h3> 💡 아이디어 </h3>
 
 * OECD 국가 중 자살률 1위 대한민국
 * 투신자살 시도자는 한번 실패시 다시 자살시도를 할 확률이 낮음(한국보건사회연구원)
@@ -28,7 +28,7 @@
 <img src="https://github.com/Aribabo/CAIROSS/assets/137020870/05e82fcd-3e0a-4b75-86ce-fbbe3d8f1d62" width="480" height="300">
 
 
-<h3>🪄 매커니즘 </h3>
+<h3>✨ 매커니즘 </h3>
 
 1. CCTV 화면 송출
 2. YOLOv8-segmentation을 통해 사람과 난간 감지
@@ -36,7 +36,7 @@
 4. 사용자에게 전체 CCTV 화면과 위험한 행동을 하는 사람 확대 화면 노출
 
 
-<h3>📲서비스 화면</h3>
+<h3>💻 서비스 화면</h3>
 <p>
   <img src="https://github.com/Aribabo/CAIROSS/assets/137020870/8f39f3dc-1b4a-4785-9d90-d457d37cf74c" width="500" height="300">
   <img src="https://github.com/Aribabo/CAIROSS/assets/137020870/daca0ceb-374e-4da6-80a3-2b0a8e65b4c7" width="480" height="300">
