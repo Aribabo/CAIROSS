@@ -39,7 +39,7 @@
 <h3>💻 서비스 화면</h3>
 <p>
   <img src="https://github.com/Aribabo/CAIROSS/assets/137020870/8f39f3dc-1b4a-4785-9d90-d457d37cf74c" width="500" height="300">
-  <img src="https://github.com/Aribabo/CAIROSS/assets/137020870/daca0ceb-374e-4da6-80a3-2b0a8e65b4c7" width="480" height="300">
+  <img src="https://github.com/Aribabo/CAIROSS/assets/137020870/daca0ceb-374e-4da6-80a3-2b0a8e65b4c7" width="500" height="290">
 </p>
 <h3> 🛠️ 개발환경 및 툴 </h3>
 <p>
