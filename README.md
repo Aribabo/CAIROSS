@@ -4,9 +4,9 @@
 <h3> 💡 아이디어 </h3>
 
 * OECD 국가 중 자살률 1위 대한민국
-* 투신자살 시도자는 한번 실패시 다시 자살시도를 할 확률이 낮음(한국보건사회연구원)
+* 투신자살 시도자는 한번 실패시 다시 자살시도를 할 확률 📉 (출처:한국보건사회연구원)
 * 다리 투신 자살 추정자를 AI가 포착해서 뛰어내리기 전에 조치
-* YOLOv8로 사람과 난간을 감지하여 사람과 난간 사이의 거리를 계산
+* YOLOv8로 사람과 난간을 감지하여 알고리즘을 통해 사람과 난간 사이의 거리를 계산
 * 사람이 난간에 일정수준 이상 다가갈 경우 그 사람을 확대해 빠른 조치
 
 
@@ -54,7 +54,6 @@
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/pyCharm-000000?style=flat&logo=pycharm&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>&nbsp;&nbsp;
   
 </p>
 
