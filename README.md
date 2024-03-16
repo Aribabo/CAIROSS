@@ -24,8 +24,8 @@
 
  
 <h3>📌 사용 데이터셋 </h3>  
-<img src="https://github.com/Aribabo/CAIROSS/assets/137020870/d26283c3-9d19-47c5-8b48-36cdf8923014" width="500">
-<img src="https://github.com/Aribabo/CAIROSS/assets/137020870/05e82fcd-3e0a-4b75-86ce-fbbe3d8f1d62" width="500" >
+<img src="https://github.com/Aribabo/CAIROSS/assets/137020870/d26283c3-9d19-47c5-8b48-36cdf8923014" width="700">
+<img src="https://github.com/Aribabo/CAIROSS/assets/137020870/05e82fcd-3e0a-4b75-86ce-fbbe3d8f1d62" width="700" >
 
 
 <h3>✨ 매커니즘 </h3>
@@ -38,8 +38,8 @@
 
 <h3>💻 서비스 화면</h3>
 <p>
-  <img src="https://github.com/Aribabo/CAIROSS/assets/137020870/d929fa11-fed8-4901-8984-ab7853a7edaf" width="500">
-  <img src="https://github.com/Aribabo/CAIROSS/assets/137020870/92ea4966-e7d9-4721-86c3-a5ed9487abca" width="500">
+  <img src="https://github.com/Aribabo/CAIROSS/assets/137020870/d929fa11-fed8-4901-8984-ab7853a7edaf" width="700">
+  <img src="https://github.com/Aribabo/CAIROSS/assets/137020870/92ea4966-e7d9-4721-86c3-a5ed9487abca" width="700">
 
 </p>
 <h3> 🛠️ 개발환경 및 툴 </h3>
