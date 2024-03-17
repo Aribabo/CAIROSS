@@ -58,3 +58,7 @@
   
 </p>
 
+<h3> 
+  
+  📰 자세한 내용은 [PPT](https://github.com/Aribabo/CAIROSS/blob/main/CAIROSS%20ppt.pdf)에서 확인할 수 있습니다. 
+</h3>  
