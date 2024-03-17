@@ -31,7 +31,7 @@
 <h3>✨ 매커니즘 </h3>
 
 1. CCTV 화면 송출
-2. YOLOv8-segmentation을 통해 사람과 난간 감지
+2. YOLOv8-segmentation을 통해 사람과 난간 감지 ✔ [모델 학습 코드](https://github.com/Aribabo/CAIROSS/blob/main/yolov8_segmentation_%ED%95%99%EC%8A%B5%EC%BD%94%EB%93%9C.ipynb) ❗❗
 3. 난간의 정확한 형태와 사람의 바운딩 박스 사이의 거리 계산
 4. 사용자에게 전체 CCTV 화면과 위험한 행동을 하는 사람 확대 화면 노출
 
